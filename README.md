@@ -7,7 +7,7 @@ Cross chain swaps with intents using natural language and a novel OFA model for 
 
 The AISwap-X architecture consist of 3 elements:
 
-- AISwap-X UI. A user friendly interface, where Swappers can express their intent using natural language .
+- [AISwap-X UI](https://github.com/EdsonAlcala/aiswap-frontend). A user friendly interface, where Swappers can express their intent using natural language .
 - [AISwap-X Protocol](https://github.com/EdsonAlcala/aiswap-x-contracts). The coordination mechanism that allows Swappers and Bidders to interact in a secure way using the UMA optimistic oracle.
 - [AISwap-X Market Makers Engine](https://github.com/EdsonAlcala/aiswap-x-market-maker). A custom implementation that allow bidders to submit bids in order to win a swap intent and fullfil user's orders.
 
