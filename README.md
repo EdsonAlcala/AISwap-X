@@ -9,7 +9,7 @@ The AISwap-X architecture consist of 3 elements:
 
 - AISwap-X UI. A user friendly interface, where Swappers can express their intent using natural language .
 - [AISwap-X protocol](https://github.com/EdsonAlcala/aiswap-x-contracts). The coordination mechanism that allows Swappers and Bidders to interact in a secure way using the UMA optimistic oracle.
-- Bidders engine. A custom implementation that allow bidders to submit bids in order to win a swap intent and fullfil user's orders.
+- [Bidders engine](https://github.com/EdsonAlcala/aiswap-x-market-maker). A custom implementation that allow bidders to submit bids in order to win a swap intent and fullfil user's orders.
 
 ## How it works
 
