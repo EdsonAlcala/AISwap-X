@@ -1,5 +1,5 @@
 # AISwap-X
-Cross chain swaps with intents using natural language and a novel OFA model for instant swaps.
+Cross chain swaps with intents using natural language and a novel OFA model for instant cross chain swaps.
 
 <img width="1370" alt="Screenshot 2023-07-23 at 00 43 08" src="https://github.com/EdsonAlcala/AISwap-X/assets/3077635/4f97d932-e9fb-48cd-a57b-abd0d4ba11d7">
 
