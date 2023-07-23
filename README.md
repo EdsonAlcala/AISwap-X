@@ -11,16 +11,19 @@ The AISwap-X architecture consist of 3 elements:
 - [AISwap-X Protocol](https://github.com/EdsonAlcala/aiswap-x-contracts). The coordination mechanism that allows Swappers and Bidders to interact in a secure way using the UMA optimistic oracle.
 - [AISwap-X Market Makers Engine](https://github.com/EdsonAlcala/aiswap-x-market-maker). A custom implementation that allow bidders to submit bids in order to win a swap intent and fullfil user's orders.
 
-## How it works
-
 ## Demo 
 
 Check the [Demo](https://aiswap-webapp.vercel.app/)
 
+Check the [Video](https://www.youtube.com/watch?v=TQbNctSCdpk)
+
+Note: It requires to run infrastructure and is currently running in my computer. So if it doesn't work reach out to me edson.alcala@machinalabs.tech.
+
 Be aware of some limitations:
 
-Only supports ETH to USDC from linea.
-
+- Only supports cross chain stablecoin swaps
+- Only supports Gnosis chain, Arbitrum, Linea
+ 
 ## Technologies
 - Langchain
 - Solidity
